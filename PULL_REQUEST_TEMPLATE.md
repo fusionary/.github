@@ -11,7 +11,7 @@
 
 - URL to test on (if applicable)
 
-## Figma
+## Figma (if applicable)
 <!-- Link to the Figma file -->
 - [Figma Link](URL)
 
